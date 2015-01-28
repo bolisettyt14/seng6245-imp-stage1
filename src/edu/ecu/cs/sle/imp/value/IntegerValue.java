@@ -26,4 +26,5 @@ public class IntegerValue {
 	public IntegerValue div(IntegerValue iv) {
 		return new IntegerValue(intValue / iv.getIntValue());
 	}
+	
 }
